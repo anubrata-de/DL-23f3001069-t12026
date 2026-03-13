@@ -1,0 +1,10 @@
+torch
+torchvision
+librosa
+soundfile
+torchaudio
+wandb
+scikit-learn
+numpy
+pandas
+tqdm
