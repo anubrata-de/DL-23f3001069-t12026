@@ -1,3 +1,12 @@
+<!-- portfolio
+title: Messy Mashup
+tagline: Noisy Music Genre Classification (DLGenAI)
+category: Machine learning
+summary: Classifies music genres from noisy mashups of instrument stems taken from different songs, handling tempo changes, cross-song mixing and background noise. Evaluated on Macro F1.
+tags: Python, Deep learning, Audio, CNN
+slug: messy-mashup
+-->
+
 # Messy Mashup - Audio Genre Classification
 
 **Name:** 23f3001069  
